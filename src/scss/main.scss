@@ -1,0 +1,11 @@
+:root {
+	--main-bg-color: azure;
+}
+
+.class {
+	width: 100%;
+
+	&subclass {
+		color: blue;
+	}
+}
